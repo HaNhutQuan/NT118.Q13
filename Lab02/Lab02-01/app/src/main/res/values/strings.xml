@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab02-01</string>
+    <string name="hint">Nhập tên</string>
+</resources>
